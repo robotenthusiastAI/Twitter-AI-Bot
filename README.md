@@ -18,7 +18,7 @@ You will need 3 things:
   - A Twitter account with Developer access to post the Tweets
       - To find your keys, watch this short video.
         - (https://www.youtube.com/watch?v=PkacG2UYMps)
-        - You will also need to make sure you set uup User authentication settings
+        - You will also need to make sure you set uup User authentication settings. This is important to grant Read and Write permissions
 
 ![image](https://github.com/robotenthusiastAI/Twitter-AI-Bot/assets/139816159/3d3604ed-36c4-4934-88b4-52ab3012b69a)
 
