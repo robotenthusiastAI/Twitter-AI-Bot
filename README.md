@@ -19,7 +19,8 @@ You will need 3 things:
       - To find your keys, watch this short video.
         - (https://www.youtube.com/watch?v=PkacG2UYMps)
         - You will also need to make sure you set uup User authentication settings
-        ![image](https://github.com/robotenthusiastAI/Twitter-AI-Bot/assets/139816159/3d3604ed-36c4-4934-88b4-52ab3012b69a)
+
+![image](https://github.com/robotenthusiastAI/Twitter-AI-Bot/assets/139816159/3d3604ed-36c4-4934-88b4-52ab3012b69a)
 
   - A Poe.com account
       - For the API token
@@ -37,11 +38,15 @@ You will need 3 things:
 ### Installing
 
 1. Download this repository
-  ![image](https://github.com/robotenthusiastAI/Twitter-AI-Bot/assets/139816159/3a37a505-04ec-4027-b777-8039ca95866b)
+
+![image](https://github.com/robotenthusiastAI/Twitter-AI-Bot/assets/139816159/3a37a505-04ec-4027-b777-8039ca95866b)
+
 2. Extract the Zip
 3. Open the extracted folder (Twitter-AI-Bot-main)
-4. Go to colab.research.google.com
+4. . Go to colab.research.google.com
 5. Click file then upload notebook
-   ![image](https://github.com/robotenthusiastAI/Twitter-AI-Bot/assets/139816159/26a24d9a-c298-4dbd-bcbf-8d169a4740be)
+
+![image](https://github.com/robotenthusiastAI/Twitter-AI-Bot/assets/139816159/26a24d9a-c298-4dbd-bcbf-8d169a4740be)
+
 6. Upload the file "Twitter_AI_Bot.ipynb" from the folder
-7. Now follow the steps in the Google Collab to set up the bot
+7. . Now follow the steps in the Google Collab to set up the bot
